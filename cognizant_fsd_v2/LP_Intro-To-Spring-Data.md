@@ -34,7 +34,7 @@ Instructions
   * Note the complexities 
   * Discuss differences from old style
 1. Live code previous example using JPA (like Ken's lesson)
-1. Lab: Code both examples using starter
+1. Lab (Optional): Code both examples using starter project
 	
 Additional Resources
 * [Spring Data Documentation](https://spring.io/projects/spring-data)
