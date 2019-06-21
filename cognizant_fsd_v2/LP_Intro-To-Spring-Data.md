@@ -1,8 +1,8 @@
 # Database access in Java
-### A long history
 
 ## Objectives
 At the end of this lesson students should be able to... 
+1. understand the origins of JDBC
 1. directly interact with with relational databases using Spring JDBC 
 1. understand the difference between JDBC and JPA including when each technology should be employed.
 1. be able to implement db access using JdbcTemplate
