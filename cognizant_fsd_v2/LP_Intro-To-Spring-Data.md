@@ -21,7 +21,7 @@ At the end of this lesson students should be able to...
 * Spring JDBC - JDBC Template
   * Much less stuff
 	
-Spring JPA 
+* Spring JPA 
   * Very little coding
 	
 Resources
@@ -30,9 +30,7 @@ Resources
 	
 Instructions
 1. Live code old school JDBC
-1. Live code Spring JDBC using interfaces to make JPA easier
-  * Note the complexities 
-  * Discuss differences from old style
+1. Live code Spring JDBC 
 1. Live code previous example using JPA (like Ken's lesson)
 1. Lab (Optional): Code both examples using starter project
 	
