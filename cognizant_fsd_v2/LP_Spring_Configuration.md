@@ -1,5 +1,5 @@
 # Objectives
-At the end of this lesson students should understand how to use spring profiles to manage external configuration.
+At the end of this lesson students should understand how to manage external configuration of a Spring application using...
 1. Auto-Configuration
 1. Annotations associated with Spring Configuration
 1. When to exclude auto-configured item
