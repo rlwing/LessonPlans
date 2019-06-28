@@ -21,7 +21,18 @@ To prepare students for deploying their application to other environments.  Less
 1. Discuss why we might need to have different configurations for an application
 1. Present Slides
 1. Quick live code demo
-1. Lab - Create a simple app with DB connection, and other properties necessary for different deployment.
+
+### Lab
+1. Create a new spring boot web app using [initializer](http://start.spring.io)
+1. Generate AUTO-CONFIGURATION REPORT
+1. Add Profiles for DEV and TEST
+1. Add two @Beans one for DEV and one for TEST
+1. Add @Bean
+1. Add custom auto configuration to @SpringBoodApplication class
+    * Exclude 1 or more auto configurations (be sure you don't need them) using "exclude=..."
+    * 
+1. Add Typesafe properties file
+1. Add controller that prints out custom properties per profile (requires separate deployment)
 
 ## Additional Resources
 PluralSight Course: [Spring Boot: Efficient Development, Configuration and Deployment](https://app.pluralsight.com/library/courses/spring-boot-efficient-development-configuration-deployment)
