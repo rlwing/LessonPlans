@@ -14,7 +14,7 @@ To prepare students for deploying their application to other environments.  Less
 @SpringBootApplication (@Configuration, @ComponentScan, @EnableAutoConfiguration).
 
 ### Resources
-* Slides
+* [Slides](https://docs.google.com/presentation/d/1byt2wqDZ6YIhUTcgNvO98-K0X7JWWv1wzYnZ77pB9Ro/edit?usp=sharing)
 * GitHub Project
 
 ### Instructions
