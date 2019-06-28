@@ -17,5 +17,11 @@ To prepare students for deploying their application to other environments.  Less
 * Slides
 * GitHub Project
 
+### Instructions
+1. Discuss why we might need to have different configurations for an application
+1. Present Slides
+1. Quick live code demo
+1. Lab - Create a simple app with DB connection, and other properties necessary for different deployment.
+
 ## Additional Resources
 PluralSight Course: [Spring Boot: Efficient Development, Configuration and Deployment](https://app.pluralsight.com/library/courses/spring-boot-efficient-development-configuration-deployment)
