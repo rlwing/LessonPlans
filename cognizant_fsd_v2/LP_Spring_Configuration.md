@@ -13,5 +13,9 @@ Time: 1 Block
 To prepare students for deploying their application to other environments.  Lesson will explain how to configure Spring with, 
 @SpringBootApplication (@Configuration, @ComponentScan, @EnableAutoConfiguration).
 
+### Resources
+* Slides
+* GitHub Project
+
 ## Additional Resources
 PluralSight Course: [Spring Boot: Efficient Development, Configuration and Deployment](https://app.pluralsight.com/library/courses/spring-boot-efficient-development-configuration-deployment)
