@@ -1,5 +1,5 @@
 # Objectives
-At the end of this lesson students should understand how to manage external configuration of a Spring application with the following...
+At the end of this lesson students should understand how to manage external configuration of a Spring application using the following techniques...
 1. Spring's Auto Config Report
 1. when/why to exclude auto-configured items
 1. annotations associated with Auto Configuration
@@ -27,7 +27,7 @@ To prepare students for deploying their application to other environments.  Less
 1. Generate AUTO-CONFIGURATION REPORT - Save version in project
 1. Add Profiles for DEV and TEST
 1. Add two @Beans one for DEV and one for TEST
-1. Add custom auto configuration to @SpringBoodApplication class
+1. Add custom auto configuration to @SpringBootApplication class
     * Exclude 1 or more auto configurations (be sure you don't need them) using "exclude=..."
     * Exclude 1 or more auto configuration using @OnConditional
 1. Add Typesafe properties class
