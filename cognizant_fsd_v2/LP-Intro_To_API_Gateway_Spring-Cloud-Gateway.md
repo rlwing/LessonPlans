@@ -13,8 +13,8 @@ By the end of this lesson the student should be able to:
 2. Have the class explore the sample app and apply the concepts to their projects.
 
 ### Resources
-Slide Deck
-[Spring Cloud Gateway Example App](https://spring.io/guides/gs/gateway/)
+* Slide Deck
+* [Spring Cloud Gateway Example App](https://spring.io/guides/gs/gateway/)
 
 ### Instructions
 
