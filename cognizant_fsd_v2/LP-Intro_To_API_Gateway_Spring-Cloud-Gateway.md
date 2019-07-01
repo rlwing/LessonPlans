@@ -30,3 +30,4 @@ By the end of this lesson the student should be able to:
 1. Challenge the class to add this approach to the user login service in their project.
 
 ## Additional Resources
+[YouTube video on SCG](https://www.youtube.com/watch?v=NkgooKSeF8w)
