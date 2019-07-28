@@ -27,6 +27,7 @@ from Baeldung.
   
 ## Additional Resources
 * [Baeldung - Java Default Annotations](https://www.baeldung.com/java-default-annotations)
+* [How well do you really know annotations](https://blog.usejournal.com/how-much-do-you-actually-know-about-annotations-in-java-b999e100b929?source=email-dba749b8470d-1564239189964-digest.reader------0-59------------------29e4d7af_5032_483c_8a63_7747b69cbee4-1&gi=7a25568561de)
 * [Baeldung - Java Custom Annotations](https://www.baeldung.com/java-custom-annotation)
 * [Java Code Geeks - Java 9 Annotations Example](https://examples.javacodegeeks.com/core-java/java-9-annotations-example/)
 * [Guru - Spring Framework Annotations](https://springframework.guru/spring-framework-annotations/)
